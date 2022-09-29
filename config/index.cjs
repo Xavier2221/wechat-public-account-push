@@ -66,7 +66,7 @@ const USER_CONFIG = {
       name: '怡斐宝贝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
-      useTemplateId: 'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
+      useTemplateId: 'Dh4XS7-q35EJZVBUyLUYHmTg8H63meirVF_JsOqeEuI',
       // 所在省份
       province: '广东',
       // 所在城市
@@ -81,7 +81,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '怡斐baby', year: '1996', date: '10-18',
+          type: '*生日', name: '怡斐baby', year: '1996', date: '9-07',
         },
         {
           type: '*生日', name: '猪猪', year: '1995', date: '02-04',
