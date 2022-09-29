@@ -13,8 +13,7 @@ const USER_CONFIG = {
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: 'fd3912a2d3c420be1b31f6f46e7b418b',
-templateid:'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
-  user:["osC5z6JQ-I_OrSuJtsSPHJLrZ9uo"]
+
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
   IS_SHOW_COLOR: true,
@@ -166,42 +165,17 @@ templateid:'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
     {
       name: '怡斐宝贝',
       id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
-      useTemplateId: '',
+      useTemplateId: 'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
       province: '',
       city: '',
       horoscopeDate: '',
       horoscopeDateType: '',
-      openUrl: 'https://wangxinleo.cn',
+      openUrl: 'baidu.com',
       festivals: [],
       customizedDateList: [],
       courseSchedule: null
     },
-    {
-      name: '老婆2',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
-    },
-    {
-      name: '老婆3',
-      id: '',
-      useTemplateId: '',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: 'https://wangxinleo.cn',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
-    }
+   
     // 你可以不断按格式往下增加
     // ...
   ],
