@@ -16,7 +16,7 @@ const USER_CONFIG = {
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
-  IS_SHOW_COLOR: true,
+  IS_SHOW_COLOR: false,
 
   // 功能开关,打开：true，关闭：false
   SWITCH: {
@@ -66,7 +66,7 @@ const USER_CONFIG = {
       name: '怡斐宝贝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
-      useTemplateId: 'Dh4XS7-q35EJZVBUyLUYHmTg8H63meirVF_JsOqeEuI',
+      useTemplateId: 'XAL8wwSBpXQ3mtboCtyyHYuanZhA3nmegFBhickBndg',
       // 所在省份
       province: '广东',
       // 所在城市
