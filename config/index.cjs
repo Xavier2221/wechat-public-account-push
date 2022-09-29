@@ -65,9 +65,8 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '怡斐宝贝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
-      // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
+      useTemplateId: 'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
       // 所在省份
       province: '广东',
       // 所在城市
@@ -162,20 +161,9 @@ const USER_CONFIG = {
         }
       },
     },
-    {
-      name: '怡斐宝贝',
-      id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
-      useTemplateId: 'cYbIXRUW7AvF9FtS49IkxWhjL0nxsGZyRwfRRluBt7I',
-      province: '',
-      city: '',
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: 'baidu.com',
-      festivals: [],
-      customizedDateList: [],
-      courseSchedule: null
-    },
-   
+
+    
+    
     // 你可以不断按格式往下增加
     // ...
   ],
