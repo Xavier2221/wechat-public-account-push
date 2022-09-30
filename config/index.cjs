@@ -65,7 +65,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '怡斐宝贝',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'osC5z6JQ-I_OrSuJtsSPHJLrZ9uo',
+      id: 'osC5z6MkhXXT1IY0z5-X67Fv4SUY',
       useTemplateId: 'Lu8Clz9jeBuWVsGWu7GVbkII8Jn9gJb12tBnxKB4jaw',
       // 所在省份
       province: '广东',
